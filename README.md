@@ -1,3 +1,4 @@
+![logo](https://github.com/user-attachments/assets/1ca01731-9a36-40d5-bd0e-64e046c80593)
 # 🔥 Fire Response Intelligence System 🚨  
 
 ## Every Second Counts. Every Decision Matters.  
@@ -20,6 +21,9 @@ Using cutting-edge technology, we transform raw data into **actionable insights*
 This is about **speed, precision, and saving lives**.  
 
 ---
+
+![workflow](https://github.com/user-attachments/assets/123673f4-17a3-4776-aa8c-8b65c7bec4ae)
+
 
 ## 🔍 How It Works  
 
