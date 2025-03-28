@@ -1,0 +1,3602 @@
+[
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 19.40096,
+        "longitude": -155.28616,
+        "waterSource1Coordinate": [
+            19.4388092,
+            -155.2729437
+        ],
+        "waterSource2Coordinate": [
+            19.431083,
+            -155.2574509
+        ],
+        "waterSource3Coordinate": [
+            19.4317335,
+            -155.2578533
+        ],
+        "waterSource1Distance": 4413.736667516387,
+        "waterSource2Distance": 4495.641808294655,
+        "waterSource3Distance": 4521.40392313425,
+        "outpost1Coordinate": [
+            19.483123,
+            -155.2671737
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 7599.552955899354,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 19.40135,
+        "longitude": -155.28197,
+        "waterSource1Coordinate": [
+            19.431083,
+            -155.2574509
+        ],
+        "waterSource2Coordinate": [
+            19.4317335,
+            -155.2578533
+        ],
+        "waterSource3Coordinate": [
+            19.4388092,
+            -155.2729437
+        ],
+        "waterSource1Distance": 4179.063653928915,
+        "waterSource2Distance": 4210.4466429548165,
+        "waterSource3Distance": 4253.608857599887,
+        "outpost1Coordinate": [
+            19.483123,
+            -155.2671737
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 7394.275949874001,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 19.40212,
+        "longitude": -155.2737,
+        "waterSource1Coordinate": [
+            19.431083,
+            -155.2574509
+        ],
+        "waterSource2Coordinate": [
+            19.4317335,
+            -155.2578533
+        ],
+        "waterSource3Coordinate": [
+            19.4388092,
+            -155.2729437
+        ],
+        "waterSource1Distance": 3632.0353158025587,
+        "waterSource2Distance": 3676.428362832596,
+        "waterSource3Distance": 4062.1662682048063,
+        "outpost1Coordinate": [
+            19.483123,
+            -155.2671737
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 7053.1822227675275,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 19.40459,
+        "longitude": -155.28639,
+        "waterSource1Coordinate": [
+            19.4388092,
+            -155.2729437
+        ],
+        "waterSource2Coordinate": [
+            19.431083,
+            -155.2574509
+        ],
+        "waterSource3Coordinate": [
+            19.4317335,
+            -155.2578533
+        ],
+        "waterSource1Distance": 4042.6432602874474,
+        "waterSource2Distance": 4223.56361647242,
+        "waterSource3Distance": 4243.9227892086155,
+        "outpost1Coordinate": [
+            19.483123,
+            -155.2671737
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 7243.1209462018,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 19.40501,
+        "longitude": -155.28223,
+        "waterSource1Coordinate": [
+            19.4388092,
+            -155.2729437
+        ],
+        "waterSource2Coordinate": [
+            19.431083,
+            -155.2574509
+        ],
+        "waterSource3Coordinate": [
+            19.4317335,
+            -155.2578533
+        ],
+        "waterSource1Distance": 3866.499004923342,
+        "waterSource2Distance": 3886.253267609855,
+        "waterSource3Distance": 3912.2371949318363,
+        "outpost1Coordinate": [
+            19.483123,
+            -155.2671737
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 7026.494086558943,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 19.40543,
+        "longitude": -155.27806,
+        "waterSource1Coordinate": [
+            19.431083,
+            -155.2574509
+        ],
+        "waterSource2Coordinate": [
+            19.4317335,
+            -155.2578533
+        ],
+        "waterSource3Coordinate": [
+            19.4388092,
+            -155.2729437
+        ],
+        "waterSource1Distance": 3570.57501249108,
+        "waterSource2Distance": 3603.0504856719817,
+        "waterSource3Distance": 3733.848386054608,
+        "outpost1Coordinate": [
+            19.483123,
+            -155.2671737
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 6830.950442752948,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 19.40584,
+        "longitude": -155.27396,
+        "waterSource1Coordinate": [
+            19.431083,
+            -155.2574509
+        ],
+        "waterSource2Coordinate": [
+            19.4317335,
+            -155.2578533
+        ],
+        "waterSource3Coordinate": [
+            19.4388092,
+            -155.2729437
+        ],
+        "waterSource1Distance": 3288.559294568751,
+        "waterSource2Distance": 3328.2813546153316,
+        "waterSource3Distance": 3651.1574412603436,
+        "outpost1Coordinate": [
+            19.483123,
+            -155.2671737
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 6661.831040525974,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 19.40625,
+        "longitude": -155.26987,
+        "waterSource1Coordinate": [
+            19.431083,
+            -155.2574509
+        ],
+        "waterSource2Coordinate": [
+            19.4317335,
+            -155.2578533
+        ],
+        "waterSource3Coordinate": [
+            19.4388092,
+            -155.2729437
+        ],
+        "waterSource1Distance": 3042.687720993715,
+        "waterSource2Distance": 3090.3980853981493,
+        "waterSource3Distance": 3618.638583604379,
+        "outpost1Coordinate": [
+            19.483123,
+            -155.2671737
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 6517.344626840438,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 19.40667,
+        "longitude": -155.28676,
+        "waterSource1Coordinate": [
+            19.4388092,
+            -155.2729437
+        ],
+        "waterSource2Coordinate": [
+            19.431083,
+            -155.2574509
+        ],
+        "waterSource3Coordinate": [
+            19.4317335,
+            -155.2578533
+        ],
+        "waterSource1Distance": 3842.2463975442665,
+        "waterSource2Distance": 4096.169763353403,
+        "waterSource3Distance": 4112.730913208935,
+        "outpost1Coordinate": [
+            19.483123,
+            -155.2671737
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 7052.0821181773945,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 19.40706,
+        "longitude": -155.2825,
+        "waterSource1Coordinate": [
+            19.4388092,
+            -155.2729437
+        ],
+        "waterSource2Coordinate": [
+            19.431083,
+            -155.2574509
+        ],
+        "waterSource3Coordinate": [
+            19.4317335,
+            -155.2578533
+        ],
+        "waterSource1Distance": 3655.039915406779,
+        "waterSource2Distance": 3740.7015870085525,
+        "waterSource3Distance": 3763.031680718447,
+        "outpost1Coordinate": [
+            19.483123,
+            -155.2671737
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 6827.455415470319,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 19.40784,
+        "longitude": -155.27419,
+        "waterSource1Coordinate": [
+            19.431083,
+            -155.2574509
+        ],
+        "waterSource2Coordinate": [
+            19.4317335,
+            -155.2578533
+        ],
+        "waterSource3Coordinate": [
+            19.4388092,
+            -155.2729437
+        ],
+        "waterSource1Distance": 3116.1925884660495,
+        "waterSource2Distance": 3152.7077167165025,
+        "waterSource3Distance": 3430.700843022708,
+        "outpost1Coordinate": [
+            19.483123,
+            -155.2671737
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 6455.1309235918625,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 19.40822,
+        "longitude": -155.27007,
+        "waterSource1Coordinate": [
+            19.431083,
+            -155.2574509
+        ],
+        "waterSource2Coordinate": [
+            19.4317335,
+            -155.2578533
+        ],
+        "waterSource3Coordinate": [
+            19.4388092,
+            -155.2729437
+        ],
+        "waterSource1Distance": 2856.8828342235984,
+        "waterSource2Distance": 2901.9322325325434,
+        "waterSource3Distance": 3399.561352718049,
+        "outpost1Coordinate": [
+            19.483123,
+            -155.2671737
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 6308.430732722506,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 19.41155,
+        "longitude": -155.27454,
+        "waterSource1Coordinate": [
+            19.431083,
+            -155.2574509
+        ],
+        "waterSource2Coordinate": [
+            19.4317335,
+            -155.2578533
+        ],
+        "waterSource3Coordinate": [
+            19.4388092,
+            -155.2729437
+        ],
+        "waterSource1Distance": 2810.0727243563683,
+        "waterSource2Distance": 2839.571881090927,
+        "waterSource3Distance": 3022.1705485092684,
+        "outpost1Coordinate": [
+            19.483123,
+            -155.2671737
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 6072.287030383461,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 19.41197,
+        "longitude": -155.27036,
+        "waterSource1Coordinate": [
+            19.431083,
+            -155.2574509
+        ],
+        "waterSource2Coordinate": [
+            19.4317335,
+            -155.2578533
+        ],
+        "waterSource3Coordinate": [
+            19.4388092,
+            -155.2729437
+        ],
+        "waterSource1Distance": 2512.8706999514575,
+        "waterSource2Distance": 2551.782648499561,
+        "waterSource3Distance": 2983.389595579654,
+        "outpost1Coordinate": [
+            19.483123,
+            -155.2671737
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 5910.559906677429,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 66.05297,
+        "longitude": 77.01517,
+        "waterSource1Coordinate": [
+            66.0412437,
+            77.0267022
+        ],
+        "waterSource2Coordinate": [
+            66.0410433,
+            77.0017764
+        ],
+        "waterSource3Coordinate": [
+            66.0402958,
+            77.0237048
+        ],
+        "waterSource1Distance": 1408.1629932369797,
+        "waterSource2Distance": 1461.903825209442,
+        "waterSource3Distance": 1465.2554795720032,
+        "outpost1Coordinate": [
+            0,
+            0
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 0,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 66.09296,
+        "longitude": 77.00748,
+        "waterSource1Coordinate": [
+            66.1001084,
+            77.1024767
+        ],
+        "waterSource2Coordinate": [
+            66.0512507,
+            76.9486445
+        ],
+        "waterSource3Coordinate": [
+            66.04602,
+            76.9786412
+        ],
+        "waterSource1Distance": 4370.296850116924,
+        "waterSource2Distance": 5359.797208077608,
+        "waterSource3Distance": 5394.643101862402,
+        "outpost1Coordinate": [
+            0,
+            0
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 0,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 69.37167,
+        "longitude": 88.12153,
+        "waterSource1Coordinate": [
+            69.3727151,
+            88.1164712
+        ],
+        "waterSource2Coordinate": [
+            69.3707524,
+            88.11377
+        ],
+        "waterSource3Coordinate": [
+            69.3740489,
+            88.1273
+        ],
+        "waterSource1Distance": 230.61657419004746,
+        "waterSource2Distance": 321.94351852718535,
+        "waterSource3Distance": 349.18157474311386,
+        "outpost1Coordinate": [
+            0,
+            0
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 0,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 69.3734,
+        "longitude": 88.12504,
+        "waterSource1Coordinate": [
+            69.3740489,
+            88.1273
+        ],
+        "waterSource2Coordinate": [
+            69.3727151,
+            88.1164712
+        ],
+        "waterSource3Coordinate": [
+            69.3747746,
+            88.1358688
+        ],
+        "waterSource1Distance": 114.63270868902923,
+        "waterSource2Distance": 345.57398369848096,
+        "waterSource3Distance": 452.65503429666643,
+        "outpost1Coordinate": [
+            0,
+            0
+        ],
+        "outpost2Coordinate": [
+            0,
+            0
+        ],
+        "outpost3Coordinate": [
+            0,
+            0
+        ],
+        "outpost1Distance": 0,
+        "outpost2Distance": 0,
+        "outpost3Distance": 0
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 65.76578,
+        "longitude": 24.18518,
+        "waterSource1Coordinate": [
+            65.7629,
+            24.1877187
+        ],
+        "waterSource2Coordinate": [
+            65.7634176,
+            24.1922101
+        ],
+        "waterSource3Coordinate": [
+            65.7652673,
+            24.1944189
+        ],
+        "waterSource1Distance": 341.55304716444,
+        "waterSource2Distance": 416.1276992768292,
+        "waterSource3Distance": 427.1802726653802,
+        "outpost1Coordinate": [
+            67.0035847,
+            22.0732455
+        ],
+        "outpost2Coordinate": [
+            67.0035847,
+            22.0732455
+        ],
+        "outpost3Coordinate": [
+            67.0035847,
+            22.0732455
+        ],
+        "outpost1Distance": 5120.213561265493,
+        "outpost2Distance": 5575.712143405002,
+        "outpost3Distance": 5948.776930451117
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.68997,
+        "longitude": 15.9823,
+        "waterSource1Coordinate": [
+            51.6914865,
+            15.9826693
+        ],
+        "waterSource2Coordinate": [
+            51.689437,
+            15.9872931
+        ],
+        "waterSource3Coordinate": [
+            51.6921786,
+            15.9771323
+        ],
+        "waterSource1Distance": 170.64961992980037,
+        "waterSource2Distance": 350.3376639794035,
+        "waterSource3Distance": 433.68173618917376,
+        "outpost1Coordinate": [
+            51.6312547,
+            16.0395236
+        ],
+        "outpost2Coordinate": [
+            51.6312547,
+            16.0395236
+        ],
+        "outpost3Coordinate": [
+            51.6312547,
+            16.0395236
+        ],
+        "outpost1Distance": 1813.4256004161018,
+        "outpost2Distance": 1859.680399238986,
+        "outpost3Distance": 1888.377634992895
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.69072,
+        "longitude": 15.97579,
+        "waterSource1Coordinate": [
+            51.6921786,
+            15.9771323
+        ],
+        "waterSource2Coordinate": [
+            51.6908152,
+            15.9723415
+        ],
+        "waterSource3Coordinate": [
+            51.6910981,
+            15.9716107
+        ],
+        "waterSource1Distance": 186.9548154681683,
+        "waterSource2Distance": 238.69966623201267,
+        "waterSource3Distance": 292.0443779625008,
+        "outpost1Coordinate": [
+            51.6312547,
+            16.0395236
+        ],
+        "outpost2Coordinate": [
+            51.6312547,
+            16.0395236
+        ],
+        "outpost3Coordinate": [
+            51.6312547,
+            16.0395236
+        ],
+        "outpost1Distance": 1876.4241968488445,
+        "outpost2Distance": 1957.4008502439576,
+        "outpost3Distance": 2010.6494694755602
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 52.4832,
+        "longitude": 4.58705,
+        "waterSource1Coordinate": [
+            52.4838546,
+            4.5851662
+        ],
+        "waterSource2Coordinate": [
+            52.4860094,
+            4.5857245
+        ],
+        "waterSource3Coordinate": [
+            52.4836739,
+            4.5953649
+        ],
+        "waterSource1Distance": 147.25501633931142,
+        "waterSource2Distance": 325.3303335322894,
+        "waterSource3Distance": 567.3351093772822,
+        "outpost1Coordinate": [
+            52.4896068,
+            4.6422339
+        ],
+        "outpost2Coordinate": [
+            52.4896068,
+            4.6422339
+        ],
+        "outpost3Coordinate": [
+            52.4896068,
+            4.6422339
+        ],
+        "outpost1Distance": 1277.722774640046,
+        "outpost2Distance": 3324.3117504059587,
+        "outpost3Distance": 3378.4118699727433
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 52.49429,
+        "longitude": 4.61368,
+        "waterSource1Coordinate": [
+            52.4958516,
+            4.6154507
+        ],
+        "waterSource2Coordinate": [
+            52.4971994,
+            4.6157855
+        ],
+        "waterSource3Coordinate": [
+            52.4991809,
+            4.6154949
+        ],
+        "waterSource1Distance": 211.32652607292852,
+        "waterSource2Distance": 353.9234414857617,
+        "waterSource3Distance": 558.0268231186659,
+        "outpost1Coordinate": [
+            52.5585495,
+            4.6911572
+        ],
+        "outpost2Coordinate": [
+            52.5585495,
+            4.6911572
+        ],
+        "outpost3Coordinate": [
+            52.5585495,
+            4.6911572
+        ],
+        "outpost1Distance": 1353.6227421572617,
+        "outpost2Distance": 1592.9489409692806,
+        "outpost3Distance": 1634.6621152982973
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 52.4944,
+        "longitude": 4.60719,
+        "waterSource1Coordinate": [
+            52.4948962,
+            4.6050628
+        ],
+        "waterSource2Coordinate": [
+            52.4921241,
+            4.6052155
+        ],
+        "waterSource3Coordinate": [
+            52.4905715,
+            4.6040927
+        ],
+        "waterSource1Distance": 154.66778041401727,
+        "waterSource2Distance": 286.57147759842195,
+        "waterSource3Distance": 475.13445422529827,
+        "outpost1Coordinate": [
+            52.5585495,
+            4.6911572
+        ],
+        "outpost2Coordinate": [
+            52.5585495,
+            4.6911572
+        ],
+        "outpost3Coordinate": [
+            52.5585495,
+            4.6911572
+        ],
+        "outpost1Distance": 913.7390253864816,
+        "outpost2Distance": 1865.4400366420446,
+        "outpost3Distance": 1910.5590302505336
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 53.56979,
+        "longitude": -0.59369,
+        "waterSource1Coordinate": [
+            53.5687382,
+            -0.5993385
+        ],
+        "waterSource2Coordinate": [
+            53.5668206,
+            -0.5893039
+        ],
+        "waterSource3Coordinate": [
+            53.5653418,
+            -0.6002675
+        ],
+        "waterSource1Distance": 392.1002476172501,
+        "waterSource2Distance": 440.0711754964723,
+        "waterSource3Distance": 659.5465150499149,
+        "outpost1Coordinate": [
+            53.5585693,
+            -0.5987456
+        ],
+        "outpost2Coordinate": [
+            53.5585693,
+            -0.5987456
+        ],
+        "outpost3Coordinate": [
+            53.5585693,
+            -0.5987456
+        ],
+        "outpost1Distance": 981.2346056069449,
+        "outpost2Distance": 1057.9708733587001,
+        "outpost3Distance": 1946.091012859225
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 42.71743,
+        "longitude": 24.17031,
+        "waterSource1Coordinate": [
+            42.7250023,
+            24.1643842
+        ],
+        "waterSource2Coordinate": [
+            42.7179502,
+            24.1840042
+        ],
+        "waterSource3Coordinate": [
+            42.7059773,
+            24.1661871
+        ],
+        "waterSource1Distance": 971.175958849239,
+        "waterSource2Distance": 1123.22439296652,
+        "waterSource3Distance": 1316.3170413074502,
+        "outpost1Coordinate": [
+            42.4468573,
+            24.1782526
+        ],
+        "outpost2Coordinate": [
+            42.4468573,
+            24.1782526
+        ],
+        "outpost3Coordinate": [
+            42.4468573,
+            24.1782526
+        ],
+        "outpost1Distance": 3862.5335601403426,
+        "outpost2Distance": 3942.205407825082,
+        "outpost3Distance": 5086.513825078494
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 44.01137,
+        "longitude": 19.8892,
+        "waterSource1Coordinate": [
+            44.0080182,
+            19.8881455
+        ],
+        "waterSource2Coordinate": [
+            43.9932997,
+            19.9026999
+        ],
+        "waterSource3Coordinate": [
+            44.0196367,
+            19.9182137
+        ],
+        "waterSource1Distance": 381.9065591845075,
+        "waterSource2Distance": 2281.1623809129655,
+        "waterSource3Distance": 2501.2353976554596,
+        "outpost1Coordinate": [
+            43.9858197,
+            19.8936206
+        ],
+        "outpost2Coordinate": [
+            43.9858197,
+            19.8936206
+        ],
+        "outpost3Coordinate": [
+            43.9858197,
+            19.8936206
+        ],
+        "outpost1Distance": 425.03597191704165,
+        "outpost2Distance": 2044.6611491789847,
+        "outpost3Distance": 2339.312249812704
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 44.22124,
+        "longitude": 17.90486,
+        "waterSource1Coordinate": [
+            44.2191771,
+            17.9055402
+        ],
+        "waterSource2Coordinate": [
+            44.2175374,
+            17.9030196
+        ],
+        "waterSource3Coordinate": [
+            44.2172347,
+            17.9032115
+        ],
+        "waterSource1Distance": 235.5785095229405,
+        "waterSource2Distance": 436.91532741871356,
+        "waterSource3Distance": 464.1414648493612,
+        "outpost1Coordinate": [
+            44.3331242,
+            17.9362227
+        ],
+        "outpost2Coordinate": [
+            44.3331242,
+            17.9362227
+        ],
+        "outpost3Coordinate": [
+            44.3331242,
+            17.9362227
+        ],
+        "outpost1Distance": 1547.2106726178658,
+        "outpost2Distance": 2385.014555967624,
+        "outpost3Distance": 3095.557051866898
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 44.52791,
+        "longitude": 18.52859,
+        "waterSource1Coordinate": [
+            44.529993,
+            18.5259001
+        ],
+        "waterSource2Coordinate": [
+            44.5301563,
+            18.5257309
+        ],
+        "waterSource3Coordinate": [
+            44.5303039,
+            18.5255567
+        ],
+        "waterSource1Distance": 315.11405105101795,
+        "waterSource2Distance": 337.5783866235168,
+        "waterSource3Distance": 359.02936287309603,
+        "outpost1Coordinate": [
+            44.4011847,
+            18.600547
+        ],
+        "outpost2Coordinate": [
+            44.4011847,
+            18.600547
+        ],
+        "outpost3Coordinate": [
+            44.4011847,
+            18.600547
+        ],
+        "outpost1Distance": 1297.0841519010905,
+        "outpost2Distance": 1521.4560253492937,
+        "outpost3Distance": 1705.3530412949347
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 44.73786,
+        "longitude": 37.81007,
+        "waterSource1Coordinate": [
+            44.7571882,
+            37.8335047
+        ],
+        "waterSource2Coordinate": [
+            44.7598855,
+            37.8319876
+        ],
+        "waterSource3Coordinate": [
+            44.7623387,
+            37.8292249
+        ],
+        "waterSource1Distance": 2838.5860324251234,
+        "waterSource2Distance": 3000.567035573485,
+        "waterSource3Distance": 3114.572488293571,
+        "outpost1Coordinate": [
+            44.7637345,
+            37.7024923
+        ],
+        "outpost2Coordinate": [
+            44.7637345,
+            37.7024923
+        ],
+        "outpost3Coordinate": [
+            44.7637345,
+            37.7024923
+        ],
+        "outpost1Distance": 5902.96016606441,
+        "outpost2Distance": 5904.630690399007,
+        "outpost3Distance": 5910.25890250086
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 44.73947,
+        "longitude": 37.80667,
+        "waterSource1Coordinate": [
+            44.7571882,
+            37.8335047
+        ],
+        "waterSource2Coordinate": [
+            44.7299845,
+            37.7715922
+        ],
+        "waterSource3Coordinate": [
+            44.7598855,
+            37.8319876
+        ],
+        "waterSource1Distance": 2897.0278424175513,
+        "waterSource2Distance": 2971.7339930852904,
+        "waterSource3Distance": 3027.6418086195863,
+        "outpost1Coordinate": [
+            44.7637345,
+            37.7024923
+        ],
+        "outpost2Coordinate": [
+            44.7637345,
+            37.7024923
+        ],
+        "outpost3Coordinate": [
+            44.7637345,
+            37.7024923
+        ],
+        "outpost1Distance": 5779.577182014148,
+        "outpost2Distance": 5781.619290016062,
+        "outpost3Distance": 5783.80515576932
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 45.14644,
+        "longitude": 9.94281,
+        "waterSource1Coordinate": [
+            45.1479003,
+            9.9406662
+        ],
+        "waterSource2Coordinate": [
+            45.1476924,
+            9.9395532
+        ],
+        "waterSource3Coordinate": [
+            45.1396055,
+            9.9417865
+        ],
+        "waterSource1Distance": 234.01602395301342,
+        "waterSource2Distance": 291.505344499567,
+        "waterSource3Distance": 763.8030400730346,
+        "outpost1Coordinate": [
+            45.1516859,
+            9.9031962
+        ],
+        "outpost2Coordinate": [
+            45.1516859,
+            9.9031962
+        ],
+        "outpost3Coordinate": [
+            45.1516859,
+            9.9031962
+        ],
+        "outpost1Distance": 687.4136126137063,
+        "outpost2Distance": 812.6970049119712,
+        "outpost3Distance": 1060.9075523930246
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 45.42961,
+        "longitude": 11.00219,
+        "waterSource1Coordinate": [
+            45.4249906,
+            11.0101496
+        ],
+        "waterSource2Coordinate": [
+            45.4221016,
+            11.0039728
+        ],
+        "waterSource3Coordinate": [
+            45.4221054,
+            11.004232
+        ],
+        "waterSource1Distance": 807.2133853257571,
+        "waterSource2Distance": 846.0678140477863,
+        "waterSource3Distance": 849.2337939987262,
+        "outpost1Coordinate": [
+            45.235283,
+            11.1124696
+        ],
+        "outpost2Coordinate": [
+            45.235283,
+            11.1124696
+        ],
+        "outpost3Coordinate": [
+            45.235283,
+            11.1124696
+        ],
+        "outpost1Distance": 626.1448802303343,
+        "outpost2Distance": 1583.799962231436,
+        "outpost3Distance": 1834.432860813011
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 45.45938,
+        "longitude": 10.45765,
+        "waterSource1Coordinate": [
+            45.4628677,
+            10.4689496
+        ],
+        "waterSource2Coordinate": [
+            45.4635858,
+            10.4688294
+        ],
+        "waterSource3Coordinate": [
+            45.4643392,
+            10.4687456
+        ],
+        "waterSource1Distance": 965.0335381276574,
+        "waterSource2Distance": 991.4607724072242,
+        "waterSource3Distance": 1028.0357732663344,
+        "outpost1Coordinate": [
+            45.36647,
+            10.3240396
+        ],
+        "outpost2Coordinate": [
+            45.36647,
+            10.3240396
+        ],
+        "outpost3Coordinate": [
+            45.36647,
+            10.3240396
+        ],
+        "outpost1Distance": 642.7452778700541,
+        "outpost2Distance": 758.6086593395319,
+        "outpost3Distance": 762.075545459801
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 45.45987,
+        "longitude": 10.45232,
+        "waterSource1Coordinate": [
+            45.4701797,
+            10.4486033
+        ],
+        "waterSource2Coordinate": [
+            45.4489531,
+            10.446663
+        ],
+        "waterSource3Coordinate": [
+            45.4628677,
+            10.4689496
+        ],
+        "waterSource1Distance": 1182.122253052346,
+        "waterSource2Distance": 1291.4829132983368,
+        "waterSource3Distance": 1342.6197200955428,
+        "outpost1Coordinate": [
+            45.36647,
+            10.3240396
+        ],
+        "outpost2Coordinate": [
+            45.36647,
+            10.3240396
+        ],
+        "outpost3Coordinate": [
+            45.36647,
+            10.3240396
+        ],
+        "outpost1Distance": 366.2670809052869,
+        "outpost2Distance": 639.244865077123,
+        "outpost3Distance": 651.6545168407353
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 45.48162,
+        "longitude": 10.21063,
+        "waterSource1Coordinate": [
+            45.4838945,
+            10.2035046
+        ],
+        "waterSource2Coordinate": [
+            45.4896078,
+            10.2060562
+        ],
+        "waterSource3Coordinate": [
+            45.4727925,
+            10.1953936
+        ],
+        "waterSource1Distance": 611.750268055106,
+        "waterSource2Distance": 957.0786982114327,
+        "waterSource3Distance": 1543.3132138921828,
+        "outpost1Coordinate": [
+            45.5303921,
+            10.1181765
+        ],
+        "outpost2Coordinate": [
+            45.5303921,
+            10.1181765
+        ],
+        "outpost3Coordinate": [
+            45.5303921,
+            10.1181765
+        ],
+        "outpost1Distance": 712.1784946880763,
+        "outpost2Distance": 773.5682976878747,
+        "outpost3Distance": 802.0239942213154
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 45.51837,
+        "longitude": 11.49483,
+        "waterSource1Coordinate": [
+            45.5236458,
+            11.4921725
+        ],
+        "waterSource2Coordinate": [
+            45.5248287,
+            11.4803963
+        ],
+        "waterSource3Coordinate": [
+            45.5225435,
+            11.4766547
+        ],
+        "waterSource1Distance": 622.037439123215,
+        "waterSource2Distance": 1336.7657947742005,
+        "waterSource3Distance": 1493.870085531469,
+        "outpost1Coordinate": [
+            45.5595802,
+            11.4842268
+        ],
+        "outpost2Coordinate": [
+            45.5595802,
+            11.4842268
+        ],
+        "outpost3Coordinate": [
+            45.5595802,
+            11.4842268
+        ],
+        "outpost1Distance": 775.3443565484305,
+        "outpost2Distance": 1505.87643280312,
+        "outpost3Distance": 1551.594182589069
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 45.68356,
+        "longitude": 9.46498,
+        "waterSource1Coordinate": [
+            45.6822317,
+            9.4668163
+        ],
+        "waterSource2Coordinate": [
+            45.6788013,
+            9.4599182
+        ],
+        "waterSource3Coordinate": [
+            45.6768176,
+            9.4640164
+        ],
+        "waterSource1Distance": 205.5745795836242,
+        "waterSource2Distance": 659.7373260081182,
+        "waterSource3Distance": 753.1354719498626,
+        "outpost1Coordinate": [
+            45.6133957,
+            9.4876519
+        ],
+        "outpost2Coordinate": [
+            45.6133957,
+            9.4876519
+        ],
+        "outpost3Coordinate": [
+            45.6133957,
+            9.4876519
+        ],
+        "outpost1Distance": 990.8328163353062,
+        "outpost2Distance": 1054.5743832045794,
+        "outpost3Distance": 1173.6114231189204
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 45.80523,
+        "longitude": 5.41974,
+        "waterSource1Coordinate": [
+            45.8040772,
+            5.4241283
+        ],
+        "waterSource2Coordinate": [
+            45.8104524,
+            5.4278719
+        ],
+        "waterSource3Coordinate": [
+            45.8045329,
+            5.4310754
+        ],
+        "waterSource1Distance": 364.39646033128645,
+        "waterSource2Distance": 858.185205600868,
+        "waterSource3Distance": 884.5587294471803,
+        "outpost1Coordinate": [
+            45.7582269,
+            5.5209992
+        ],
+        "outpost2Coordinate": [
+            45.7582269,
+            5.5209992
+        ],
+        "outpost3Coordinate": [
+            45.7582269,
+            5.5209992
+        ],
+        "outpost1Distance": 1285.942917596406,
+        "outpost2Distance": 1718.1430437298668,
+        "outpost3Distance": 2059.197140180306
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 45.98571,
+        "longitude": 17.73798,
+        "waterSource1Coordinate": [
+            45.9848861,
+            17.722364
+        ],
+        "waterSource2Coordinate": [
+            45.9849868,
+            17.722307
+        ],
+        "waterSource3Coordinate": [
+            45.9775623,
+            17.7241999
+        ],
+        "waterSource1Distance": 1213.4477666727284,
+        "waterSource2Distance": 1217.0602148797561,
+        "waterSource3Distance": 1400.1299040949752,
+        "outpost1Coordinate": [
+            46.0525055,
+            17.7963521
+        ],
+        "outpost2Coordinate": [
+            46.0525055,
+            17.7963521
+        ],
+        "outpost3Coordinate": [
+            46.0525055,
+            17.7963521
+        ],
+        "outpost1Distance": 1013.5213036074979,
+        "outpost2Distance": 1391.56331903068,
+        "outpost3Distance": 1746.3444259871303
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 46.00615,
+        "longitude": 13.25176,
+        "waterSource1Coordinate": [
+            46.010745,
+            13.2544753
+        ],
+        "waterSource2Coordinate": [
+            46.0116079,
+            13.2646055
+        ],
+        "waterSource3Coordinate": [
+            46.014894,
+            13.2637978
+        ],
+        "waterSource1Distance": 552.344317717128,
+        "waterSource2Distance": 1165.2665208336978,
+        "waterSource3Distance": 1346.7778676562752,
+        "outpost1Coordinate": [
+            45.9799416,
+            13.3637742
+        ],
+        "outpost2Coordinate": [
+            45.9799416,
+            13.3637742
+        ],
+        "outpost3Coordinate": [
+            45.9799416,
+            13.3637742
+        ],
+        "outpost1Distance": 444.4558857448132,
+        "outpost2Distance": 594.4046276685976,
+        "outpost3Distance": 615.413693361013
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 46.0677,
+        "longitude": 13.62616,
+        "waterSource1Coordinate": [
+            46.0486709,
+            13.6196345
+        ],
+        "waterSource2Coordinate": [
+            46.0865927,
+            13.6357375
+        ],
+        "waterSource3Coordinate": [
+            46.0889676,
+            13.6329798
+        ],
+        "waterSource1Distance": 2174.571482390703,
+        "waterSource2Distance": 2226.8354476226637,
+        "waterSource3Distance": 2422.1016925925665,
+        "outpost1Coordinate": [
+            46.1304976,
+            13.5694908
+        ],
+        "outpost2Coordinate": [
+            46.1304976,
+            13.5694908
+        ],
+        "outpost3Coordinate": [
+            46.1304976,
+            13.5694908
+        ],
+        "outpost1Distance": 422.18191193506794,
+        "outpost2Distance": 519.6878820497101,
+        "outpost3Distance": 921.4766402282311
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 47.0701,
+        "longitude": 8.26553,
+        "waterSource1Coordinate": [
+            47.0695919,
+            8.2658302
+        ],
+        "waterSource2Coordinate": [
+            47.070345,
+            8.2648029
+        ],
+        "waterSource3Coordinate": [
+            47.06932,
+            8.2657935
+        ],
+        "waterSource1Distance": 60.91533252881812,
+        "waterSource2Distance": 61.57902812166461,
+        "waterSource3Distance": 88.99415690788095,
+        "outpost1Coordinate": [
+            46.9566632,
+            8.294109
+        ],
+        "outpost2Coordinate": [
+            46.9566632,
+            8.294109
+        ],
+        "outpost3Coordinate": [
+            46.9566632,
+            8.294109
+        ],
+        "outpost1Distance": 267.4707825370002,
+        "outpost2Distance": 301.64616504130163,
+        "outpost3Distance": 626.6425524409591
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 48.26052,
+        "longitude": 14.33184,
+        "waterSource1Coordinate": [
+            48.2559775,
+            14.3304808
+        ],
+        "waterSource2Coordinate": [
+            48.2554143,
+            14.3309502
+        ],
+        "waterSource3Coordinate": [
+            48.2544618,
+            14.3288572
+        ],
+        "waterSource1Distance": 515.0887947463965,
+        "waterSource2Distance": 571.5615737044689,
+        "waterSource3Distance": 709.1192846422647,
+        "outpost1Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost2Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost3Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost1Distance": 1251.3290129305412,
+        "outpost2Distance": 1386.0576612680018,
+        "outpost3Distance": 2148.5128220030274
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 48.27423,
+        "longitude": 14.34182,
+        "waterSource1Coordinate": [
+            48.2811488,
+            14.3451408
+        ],
+        "waterSource2Coordinate": [
+            48.2735802,
+            14.3294755
+        ],
+        "waterSource3Coordinate": [
+            48.2737979,
+            14.3294082
+        ],
+        "waterSource1Distance": 807.8610035367793,
+        "waterSource2Distance": 919.1701116411317,
+        "waterSource3Distance": 922.5714712470077,
+        "outpost1Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost2Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost3Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost1Distance": 1851.43429956748,
+        "outpost2Distance": 2199.9108067487073,
+        "outpost3Distance": 2424.425995402245
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 48.27495,
+        "longitude": 14.33556,
+        "waterSource1Coordinate": [
+            48.2737979,
+            14.3294082
+        ],
+        "waterSource2Coordinate": [
+            48.2735802,
+            14.3294755
+        ],
+        "waterSource3Coordinate": [
+            48.2739318,
+            14.328569
+        ],
+        "waterSource1Distance": 474.2705293899218,
+        "waterSource2Distance": 476.63852556392357,
+        "waterSource3Distance": 531.1402204090565,
+        "outpost1Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost2Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost3Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost1Distance": 2010.6667329735014,
+        "outpost2Distance": 2405.385115995385,
+        "outpost3Distance": 2507.10142423312
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 48.27712,
+        "longitude": 14.34902,
+        "waterSource1Coordinate": [
+            48.2811488,
+            14.3451408
+        ],
+        "waterSource2Coordinate": [
+            48.267264,
+            14.3495207
+        ],
+        "waterSource3Coordinate": [
+            48.2815937,
+            14.3357692
+        ],
+        "waterSource1Distance": 532.5315012747299,
+        "waterSource2Distance": 1096.5740569508637,
+        "waterSource3Distance": 1102.1460561555446,
+        "outpost1Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost2Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost3Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost1Distance": 1397.6462057267313,
+        "outpost2Distance": 1598.643690233182,
+        "outpost3Distance": 2045.742671617433
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 48.27784,
+        "longitude": 14.34275,
+        "waterSource1Coordinate": [
+            48.2811488,
+            14.3451408
+        ],
+        "waterSource2Coordinate": [
+            48.2815937,
+            14.3357692
+        ],
+        "waterSource3Coordinate": [
+            48.2872301,
+            14.3409303
+        ],
+        "waterSource1Distance": 408.48061639469,
+        "waterSource2Distance": 665.3343588101437,
+        "waterSource3Distance": 1052.837688175569,
+        "outpost1Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost2Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost3Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost1Distance": 1457.482683776449,
+        "outpost2Distance": 1886.4557260816152,
+        "outpost3Distance": 2021.7350500406321
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 48.27856,
+        "longitude": 14.33647,
+        "waterSource1Coordinate": [
+            48.2815937,
+            14.3357692
+        ],
+        "waterSource2Coordinate": [
+            48.2811488,
+            14.3451408
+        ],
+        "waterSource3Coordinate": [
+            48.2737979,
+            14.3294082
+        ],
+        "waterSource1Distance": 341.3210567598723,
+        "waterSource2Distance": 705.0017628899456,
+        "waterSource3Distance": 745.0848278200457,
+        "outpost1Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost2Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost3Coordinate": [
+            48.2493075,
+            14.4154729
+        ],
+        "outpost1Distance": 1656.0843611002472,
+        "outpost2Distance": 1999.2480908496825,
+        "outpost3Distance": 2135.030575613676
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 48.45819,
+        "longitude": 17.19174,
+        "waterSource1Coordinate": [
+            48.4584727,
+            17.207859
+        ],
+        "waterSource2Coordinate": [
+            48.4469831,
+            17.1917173
+        ],
+        "waterSource3Coordinate": [
+            48.4703577,
+            17.196957
+        ],
+        "waterSource1Distance": 1192.6072113229939,
+        "waterSource2Distance": 1246.1985414110143,
+        "waterSource3Distance": 1406.9722264173647,
+        "outpost1Coordinate": [
+            48.4141738,
+            17.0982621
+        ],
+        "outpost2Coordinate": [
+            48.4141738,
+            17.0982621
+        ],
+        "outpost3Coordinate": [
+            48.4141738,
+            17.0982621
+        ],
+        "outpost1Distance": 1849.9469603498655,
+        "outpost2Distance": 1987.18987629597,
+        "outpost3Distance": 2678.8134594151147
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 48.51334,
+        "longitude": 10.85529,
+        "waterSource1Coordinate": [
+            48.5126742,
+            10.8645501
+        ],
+        "waterSource2Coordinate": [
+            48.5086154,
+            10.8466543
+        ],
+        "waterSource3Coordinate": [
+            48.5081929,
+            10.8469846
+        ],
+        "waterSource1Distance": 688.153708045781,
+        "waterSource2Distance": 826.517885644552,
+        "waterSource3Distance": 839.1435431465344,
+        "outpost1Coordinate": [
+            48.5319372,
+            10.8217051
+        ],
+        "outpost2Coordinate": [
+            48.5319372,
+            10.8217051
+        ],
+        "outpost3Coordinate": [
+            48.5319372,
+            10.8217051
+        ],
+        "outpost1Distance": 702.5982560552034,
+        "outpost2Distance": 1241.8671400577618,
+        "outpost3Distance": 1271.3887078477583
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 48.59168,
+        "longitude": 20.83956,
+        "waterSource1Coordinate": [
+            48.5923267,
+            20.8405589
+        ],
+        "waterSource2Coordinate": [
+            48.5903176,
+            20.8382092
+        ],
+        "waterSource3Coordinate": [
+            48.590514,
+            20.8413446
+        ],
+        "waterSource1Distance": 102.96283831872991,
+        "waterSource2Distance": 181.33456785678058,
+        "waterSource3Distance": 184.77890935508572,
+        "outpost1Coordinate": [
+            48.5360144,
+            20.9604146
+        ],
+        "outpost2Coordinate": [
+            48.5360144,
+            20.9604146
+        ],
+        "outpost3Coordinate": [
+            48.5360144,
+            20.9604146
+        ],
+        "outpost1Distance": 966.3374183145004,
+        "outpost2Distance": 1096.25113998932,
+        "outpost3Distance": 1498.0565953544133
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 48.59971,
+        "longitude": 21.17638,
+        "waterSource1Coordinate": [
+            48.5976778,
+            21.1781455
+        ],
+        "waterSource2Coordinate": [
+            48.5968666,
+            21.1792369
+        ],
+        "waterSource3Coordinate": [
+            48.6022963,
+            21.1691773
+        ],
+        "waterSource1Distance": 260.81824328558923,
+        "waterSource2Distance": 379.9740167169851,
+        "waterSource3Distance": 604.0873640866064,
+        "outpost1Coordinate": [
+            48.6705382,
+            21.1146166
+        ],
+        "outpost2Coordinate": [
+            48.6705382,
+            21.1146166
+        ],
+        "outpost3Coordinate": [
+            48.6705382,
+            21.1146166
+        ],
+        "outpost1Distance": 1028.9120141978467,
+        "outpost2Distance": 3015.822831220562,
+        "outpost3Distance": 3297.0572137152353
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 48.60625,
+        "longitude": 21.17896,
+        "waterSource1Coordinate": [
+            48.6097181,
+            21.1811665
+        ],
+        "waterSource2Coordinate": [
+            48.6101024,
+            21.1811452
+        ],
+        "waterSource3Coordinate": [
+            48.6103534,
+            21.1814975
+        ],
+        "waterSource1Distance": 418.58153569282194,
+        "waterSource2Distance": 457.7010415473894,
+        "waterSource3Distance": 493.1852957405138,
+        "outpost1Coordinate": [
+            48.6705382,
+            21.1146166
+        ],
+        "outpost2Coordinate": [
+            48.6705382,
+            21.1146166
+        ],
+        "outpost3Coordinate": [
+            48.6705382,
+            21.1146166
+        ],
+        "outpost1Distance": 1715.8616932158927,
+        "outpost2Distance": 3757.6255698766654,
+        "outpost3Distance": 3798.9475735112405
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 48.60771,
+        "longitude": 21.19072,
+        "waterSource1Coordinate": [
+            48.6073775,
+            21.1930576
+        ],
+        "waterSource2Coordinate": [
+            48.6038104,
+            21.190353
+        ],
+        "waterSource3Coordinate": [
+            48.6036795,
+            21.1901021
+        ],
+        "waterSource1Distance": 176.30693234684423,
+        "waterSource2Distance": 434.4874868440457,
+        "waterSource3Distance": 450.5105676165602,
+        "outpost1Coordinate": [
+            48.6705382,
+            21.1146166
+        ],
+        "outpost2Coordinate": [
+            48.6705382,
+            21.1146166
+        ],
+        "outpost3Coordinate": [
+            48.6705382,
+            21.1146166
+        ],
+        "outpost1Distance": 2409.5617394385736,
+        "outpost2Distance": 2921.6819048065654,
+        "outpost3Distance": 3562.7899088093045
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 48.61007,
+        "longitude": 21.19725,
+        "waterSource1Coordinate": [
+            48.6073775,
+            21.1930576
+        ],
+        "waterSource2Coordinate": [
+            48.6147722,
+            21.2008636
+        ],
+        "waterSource3Coordinate": [
+            48.6038104,
+            21.190353
+        ],
+        "waterSource1Distance": 430.3812705671226,
+        "waterSource2Distance": 586.8728420326128,
+        "waterSource3Distance": 862.106632593534,
+        "outpost1Coordinate": [
+            48.6705382,
+            21.1146166
+        ],
+        "outpost2Coordinate": [
+            48.6705382,
+            21.1146166
+        ],
+        "outpost3Coordinate": [
+            48.6705382,
+            21.1146166
+        ],
+        "outpost1Distance": 2435.659717609614,
+        "outpost2Distance": 2946.287862974071,
+        "outpost3Distance": 3084.160188903314
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 48.61098,
+        "longitude": 21.19201,
+        "waterSource1Coordinate": [
+            48.6073775,
+            21.1930576
+        ],
+        "waterSource2Coordinate": [
+            48.6147722,
+            21.2008636
+        ],
+        "waterSource3Coordinate": [
+            48.6103534,
+            21.1814975
+        ],
+        "waterSource1Distance": 407.9864868059949,
+        "waterSource2Distance": 777.1945479471734,
+        "waterSource3Distance": 778.3213482687789,
+        "outpost1Coordinate": [
+            48.6705382,
+            21.1146166
+        ],
+        "outpost2Coordinate": [
+            48.6705382,
+            21.1146166
+        ],
+        "outpost3Coordinate": [
+            48.6705382,
+            21.1146166
+        ],
+        "outpost1Distance": 2435.659717609614,
+        "outpost2Distance": 2946.287862974071,
+        "outpost3Distance": 3084.160188903314
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 49.24756,
+        "longitude": 6.84861,
+        "waterSource1Coordinate": [
+            49.2444336,
+            6.8423792
+        ],
+        "waterSource2Coordinate": [
+            49.2465862,
+            6.8407367
+        ],
+        "waterSource3Coordinate": [
+            49.2485749,
+            6.8404374
+        ],
+        "waterSource1Distance": 571.5871029444613,
+        "waterSource2Distance": 583.3891338493348,
+        "waterSource3Distance": 605.6391051968824,
+        "outpost1Coordinate": [
+            49.1691251,
+            6.9560288
+        ],
+        "outpost2Coordinate": [
+            49.1691251,
+            6.9560288
+        ],
+        "outpost3Coordinate": [
+            49.1691251,
+            6.9560288
+        ],
+        "outpost1Distance": 2560.056815201284,
+        "outpost2Distance": 3626.411391965106,
+        "outpost3Distance": 3740.187874337694
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 49.35725,
+        "longitude": 6.74722,
+        "waterSource1Coordinate": [
+            49.3601562,
+            6.7440739
+        ],
+        "waterSource2Coordinate": [
+            49.3547563,
+            6.7345843
+        ],
+        "waterSource3Coordinate": [
+            49.3539538,
+            6.7348539
+        ],
+        "waterSource1Distance": 395.85863819044476,
+        "waterSource2Distance": 958.9503234634768,
+        "waterSource3Distance": 970.306862335384,
+        "outpost1Coordinate": [
+            49.4081241,
+            6.7468174
+        ],
+        "outpost2Coordinate": [
+            49.4081241,
+            6.7468174
+        ],
+        "outpost3Coordinate": [
+            49.4081241,
+            6.7468174
+        ],
+        "outpost1Distance": 3180.4982890637357,
+        "outpost2Distance": 3608.542732693103,
+        "outpost3Distance": 3765.06091123615
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 50.33131,
+        "longitude": 19.28586,
+        "waterSource1Coordinate": [
+            50.3260862,
+            19.2881743
+        ],
+        "waterSource2Coordinate": [
+            50.3258357,
+            19.2856388
+        ],
+        "waterSource3Coordinate": [
+            50.3264383,
+            19.2908923
+        ],
+        "waterSource1Distance": 603.986962383683,
+        "waterSource2Distance": 609.1395686397268,
+        "waterSource3Distance": 649.6614870523998,
+        "outpost1Coordinate": [
+            50.2563415,
+            19.3015262
+        ],
+        "outpost2Coordinate": [
+            50.2563415,
+            19.3015262
+        ],
+        "outpost3Coordinate": [
+            50.2563415,
+            19.3015262
+        ],
+        "outpost1Distance": 3697.8898405815817,
+        "outpost2Distance": 5552.013306316558,
+        "outpost3Distance": 6078.036270831475
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 50.76515,
+        "longitude": 5.66768,
+        "waterSource1Coordinate": [
+            50.7606461,
+            5.6623665
+        ],
+        "waterSource2Coordinate": [
+            50.7690305,
+            5.6769384
+        ],
+        "waterSource3Coordinate": [
+            50.7588725,
+            5.6575139
+        ],
+        "waterSource1Distance": 625.7608114553283,
+        "waterSource2Distance": 782.9275941858,
+        "waterSource3Distance": 1001.079630545959,
+        "outpost1Coordinate": [
+            50.8153967,
+            5.7731271
+        ],
+        "outpost2Coordinate": [
+            50.8153967,
+            5.7731271
+        ],
+        "outpost3Coordinate": [
+            50.8153967,
+            5.7731271
+        ],
+        "outpost1Distance": 909.592281661722,
+        "outpost2Distance": 1215.0174583382277,
+        "outpost3Distance": 1340.3380235191573
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.03503,
+        "longitude": 2.28767,
+        "waterSource1Coordinate": [
+            51.0391725,
+            2.282402
+        ],
+        "waterSource2Coordinate": [
+            51.0287541,
+            2.2990635
+        ],
+        "waterSource3Coordinate": [
+            51.0403587,
+            2.3017462
+        ],
+        "waterSource1Distance": 590.6917045082848,
+        "waterSource2Distance": 1061.2556775412306,
+        "waterSource3Distance": 1151.6158164851006,
+        "outpost1Coordinate": [
+            51.0112833,
+            2.1774914
+        ],
+        "outpost2Coordinate": [
+            51.0112833,
+            2.1774914
+        ],
+        "outpost3Coordinate": [
+            51.0112833,
+            2.1774914
+        ],
+        "outpost1Distance": 3475.4444805520607,
+        "outpost2Distance": 3772.275226616223,
+        "outpost3Distance": 4536.920025319031
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.0476,
+        "longitude": 2.31924,
+        "waterSource1Coordinate": [
+            51.0454644,
+            2.3192383
+        ],
+        "waterSource2Coordinate": [
+            51.0447046,
+            2.3256448
+        ],
+        "waterSource3Coordinate": [
+            51.0452583,
+            2.3265459
+        ],
+        "waterSource1Distance": 237.5837526685746,
+        "waterSource2Distance": 552.7172898369371,
+        "waterSource3Distance": 574.7731677260869,
+        "outpost1Coordinate": [
+            50.9762646,
+            2.4074404
+        ],
+        "outpost2Coordinate": [
+            50.9762646,
+            2.4074404
+        ],
+        "outpost3Coordinate": [
+            50.9762646,
+            2.4074404
+        ],
+        "outpost1Distance": 5384.393299695866,
+        "outpost2Distance": 5579.89431111616,
+        "outpost3Distance": 5656.294447014097
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.17641,
+        "longitude": 3.80871,
+        "waterSource1Coordinate": [
+            51.1807992,
+            3.8044294
+        ],
+        "waterSource2Coordinate": [
+            51.181128,
+            3.8046508
+        ],
+        "waterSource3Coordinate": [
+            51.1711483,
+            3.8139375
+        ],
+        "waterSource1Distance": 572.750359278484,
+        "waterSource2Distance": 596.7207400940841,
+        "waterSource3Distance": 690.1551059977775,
+        "outpost1Coordinate": [
+            51.2502844,
+            3.8174994
+        ],
+        "outpost2Coordinate": [
+            51.2502844,
+            3.8174994
+        ],
+        "outpost3Coordinate": [
+            51.2502844,
+            3.8174994
+        ],
+        "outpost1Distance": 1807.1391495730516,
+        "outpost2Distance": 1975.3639405164074,
+        "outpost3Distance": 2001.7192564108348
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.25439,
+        "longitude": 4.32232,
+        "waterSource1Coordinate": [
+            51.2552632,
+            4.3295799
+        ],
+        "waterSource2Coordinate": [
+            51.2555917,
+            4.3299017
+        ],
+        "waterSource3Coordinate": [
+            51.2555671,
+            4.3299707
+        ],
+        "waterSource1Distance": 516.057684010977,
+        "waterSource2Distance": 545.91871172904,
+        "waterSource3Distance": 549.9323344119415,
+        "outpost1Coordinate": [
+            51.2153006,
+            4.4231482
+        ],
+        "outpost2Coordinate": [
+            51.2153006,
+            4.4231482
+        ],
+        "outpost3Coordinate": [
+            51.2153006,
+            4.4231482
+        ],
+        "outpost1Distance": 2622.2050072365023,
+        "outpost2Distance": 2751.0764852911884,
+        "outpost3Distance": 2898.907383055909
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.2601,
+        "longitude": 4.32352,
+        "waterSource1Coordinate": [
+            51.2622567,
+            4.3297737
+        ],
+        "waterSource2Coordinate": [
+            51.2612273,
+            4.3316359
+        ],
+        "waterSource3Coordinate": [
+            51.262414,
+            4.3315174
+        ],
+        "waterSource1Distance": 498.12260938218486,
+        "waterSource2Distance": 580.2353961883234,
+        "waterSource3Distance": 614.7418936909792,
+        "outpost1Coordinate": [
+            51.2153006,
+            4.4231482
+        ],
+        "outpost2Coordinate": [
+            51.2153006,
+            4.4231482
+        ],
+        "outpost3Coordinate": [
+            51.2153006,
+            4.4231482
+        ],
+        "outpost1Distance": 3021.021520363522,
+        "outpost2Distance": 3241.090709089614,
+        "outpost3Distance": 3302.5457760892605
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.26019,
+        "longitude": 4.32269,
+        "waterSource1Coordinate": [
+            51.2622567,
+            4.3297737
+        ],
+        "waterSource2Coordinate": [
+            51.2612273,
+            4.3316359
+        ],
+        "waterSource3Coordinate": [
+            51.262414,
+            4.3315174
+        ],
+        "waterSource1Distance": 545.3063816028924,
+        "waterSource2Distance": 635.0296286974252,
+        "waterSource3Distance": 663.9977684094611,
+        "outpost1Coordinate": [
+            51.2153006,
+            4.4231482
+        ],
+        "outpost2Coordinate": [
+            51.2153006,
+            4.4231482
+        ],
+        "outpost3Coordinate": [
+            51.2153006,
+            4.4231482
+        ],
+        "outpost1Distance": 2971.802584825772,
+        "outpost2Distance": 3230.21062450658,
+        "outpost3Distance": 3249.6745828739718
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.29638,
+        "longitude": 7.01022,
+        "waterSource1Coordinate": [
+            51.2972956,
+            7.0075409
+        ],
+        "waterSource2Coordinate": [
+            51.2971419,
+            7.0073812
+        ],
+        "waterSource3Coordinate": [
+            51.2975092,
+            7.0076063
+        ],
+        "waterSource1Distance": 212.82498518217776,
+        "waterSource2Distance": 215.3840686190974,
+        "waterSource3Distance": 221.39653865710295,
+        "outpost1Coordinate": [
+            51.260259,
+            7.0436423
+        ],
+        "outpost2Coordinate": [
+            51.260259,
+            7.0436423
+        ],
+        "outpost3Coordinate": [
+            51.260259,
+            7.0436423
+        ],
+        "outpost1Distance": 798.7698463929092,
+        "outpost2Distance": 1064.7528384182017,
+        "outpost3Distance": 1074.0673891614176
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.30025,
+        "longitude": 7.00967,
+        "waterSource1Coordinate": [
+            51.3005781,
+            7.0084028
+        ],
+        "waterSource2Coordinate": [
+            51.3000677,
+            7.0078349
+        ],
+        "waterSource3Coordinate": [
+            51.3001561,
+            7.0077542
+        ],
+        "waterSource1Distance": 95.62032565191559,
+        "waterSource2Distance": 129.58383124036558,
+        "waterSource3Distance": 134.02278348096115,
+        "outpost1Coordinate": [
+            51.260259,
+            7.0436423
+        ],
+        "outpost2Coordinate": [
+            51.260259,
+            7.0436423
+        ],
+        "outpost3Coordinate": [
+            51.260259,
+            7.0436423
+        ],
+        "outpost1Distance": 693.4509328124734,
+        "outpost2Distance": 810.9140257551044,
+        "outpost3Distance": 1044.359254060828
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.36478,
+        "longitude": 6.71064,
+        "waterSource1Coordinate": [
+            51.3677856,
+            6.713736
+        ],
+        "waterSource2Coordinate": [
+            51.3688121,
+            6.7120287
+        ],
+        "waterSource3Coordinate": [
+            51.3690394,
+            6.7126902
+        ],
+        "waterSource1Distance": 397.8772941883039,
+        "waterSource2Distance": 458.8993118118722,
+        "waterSource3Distance": 494.92371779519084,
+        "outpost1Coordinate": [
+            51.3966696,
+            6.6518931
+        ],
+        "outpost2Coordinate": [
+            51.3966696,
+            6.6518931
+        ],
+        "outpost3Coordinate": [
+            51.3966696,
+            6.6518931
+        ],
+        "outpost1Distance": 800.004250294184,
+        "outpost2Distance": 1059.3781538533385,
+        "outpost3Distance": 1645.0491788030063
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.36497,
+        "longitude": 6.70557,
+        "waterSource1Coordinate": [
+            51.3643922,
+            6.69926
+        ],
+        "waterSource2Coordinate": [
+            51.3605107,
+            6.7022968
+        ],
+        "waterSource3Coordinate": [
+            51.3603587,
+            6.7022869
+        ],
+        "waterSource1Distance": 444.1426862043838,
+        "waterSource2Distance": 545.9926144016804,
+        "waterSource3Distance": 561.683645119344,
+        "outpost1Coordinate": [
+            51.3966696,
+            6.6518931
+        ],
+        "outpost2Coordinate": [
+            51.3966696,
+            6.6518931
+        ],
+        "outpost3Coordinate": [
+            51.3966696,
+            6.6518931
+        ],
+        "outpost1Distance": 520.316270851948,
+        "outpost2Distance": 720.2529129297404,
+        "outpost3Distance": 1298.702327246551
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.3702,
+        "longitude": 6.70605,
+        "waterSource1Coordinate": [
+            51.37048,
+            6.7056232
+        ],
+        "waterSource2Coordinate": [
+            51.3688121,
+            6.7120287
+        ],
+        "waterSource3Coordinate": [
+            51.3690394,
+            6.7126902
+        ],
+        "waterSource1Distance": 43.055402534498874,
+        "waterSource2Distance": 444.0596461939001,
+        "waterSource3Distance": 480.1029771060545,
+        "outpost1Coordinate": [
+            51.3966696,
+            6.6518931
+        ],
+        "outpost2Coordinate": [
+            51.3966696,
+            6.6518931
+        ],
+        "outpost3Coordinate": [
+            51.3966696,
+            6.6518931
+        ],
+        "outpost1Distance": 394.4009282612499,
+        "outpost2Distance": 753.2920220833254,
+        "outpost3Distance": 1091.000260190352
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.37039,
+        "longitude": 6.70096,
+        "waterSource1Coordinate": [
+            51.3701925,
+            6.696524
+        ],
+        "waterSource2Coordinate": [
+            51.37048,
+            6.7056232
+        ],
+        "waterSource3Coordinate": [
+            51.3697152,
+            6.6957259
+        ],
+        "waterSource1Distance": 309.6922229169933,
+        "waterSource2Distance": 324.88668878732165,
+        "waterSource3Distance": 372.14267415132974,
+        "outpost1Coordinate": [
+            51.3966696,
+            6.6518931
+        ],
+        "outpost2Coordinate": [
+            51.3966696,
+            6.6518931
+        ],
+        "outpost3Coordinate": [
+            51.3966696,
+            6.6518931
+        ],
+        "outpost1Distance": 193.6956437181065,
+        "outpost2Distance": 462.887841076288,
+        "outpost3Distance": 1090.3137969574207
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.48002,
+        "longitude": 6.71935,
+        "waterSource1Coordinate": [
+            51.4812206,
+            6.7276875
+        ],
+        "waterSource2Coordinate": [
+            51.4765661,
+            6.7124569
+        ],
+        "waterSource3Coordinate": [
+            51.4827248,
+            6.7272493
+        ],
+        "waterSource1Distance": 594.4088270706537,
+        "waterSource2Distance": 614.0020145598664,
+        "waterSource3Distance": 625.8518291046161,
+        "outpost1Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost2Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost3Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost1Distance": 3488.389467932374,
+        "outpost2Distance": 3562.6297440998655,
+        "outpost3Distance": 3668.83297276173
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.48021,
+        "longitude": 6.71431,
+        "waterSource1Coordinate": [
+            51.4765661,
+            6.7124569
+        ],
+        "waterSource2Coordinate": [
+            51.477532,
+            6.7084917
+        ],
+        "waterSource3Coordinate": [
+            51.4824356,
+            6.7080201
+        ],
+        "waterSource1Distance": 425.3613477290479,
+        "waterSource2Distance": 502.15579200152183,
+        "waterSource3Distance": 502.2354226151581,
+        "outpost1Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost2Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost3Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost1Distance": 3156.191777862384,
+        "outpost2Distance": 3291.5625639751265,
+        "outpost3Distance": 3361.9031662964394
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.48525,
+        "longitude": 6.71993,
+        "waterSource1Coordinate": [
+            51.4765661,
+            6.7124569
+        ],
+        "waterSource2Coordinate": [
+            51.477532,
+            6.7084917
+        ],
+        "waterSource3Coordinate": [
+            51.4824356,
+            6.7080201
+        ],
+        "waterSource1Distance": 425.3613477290479,
+        "waterSource2Distance": 502.15579200152183,
+        "waterSource3Distance": 502.2354226151581,
+        "outpost1Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost2Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost3Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost1Distance": 3344.6653483159594,
+        "outpost2Distance": 3712.912746200012,
+        "outpost3Distance": 3949.1033263558465
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.48544,
+        "longitude": 6.71488,
+        "waterSource1Coordinate": [
+            51.4885871,
+            6.7113654
+        ],
+        "waterSource2Coordinate": [
+            51.4889751,
+            6.711832
+        ],
+        "waterSource3Coordinate": [
+            51.4888591,
+            6.7114924
+        ],
+        "waterSource1Distance": 426.8420742023722,
+        "waterSource2Distance": 446.66873417423017,
+        "waterSource3Distance": 447.29432409240025,
+        "outpost1Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost2Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost3Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost1Distance": 3189.5643966716398,
+        "outpost2Distance": 3401.58501879608,
+        "outpost3Distance": 3694.7238174293534
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.48563,
+        "longitude": 6.70982,
+        "waterSource1Coordinate": [
+            51.4885871,
+            6.7113654
+        ],
+        "waterSource2Coordinate": [
+            51.4824356,
+            6.7080201
+        ],
+        "waterSource3Coordinate": [
+            51.4888591,
+            6.7114924
+        ],
+        "waterSource1Distance": 346.06868582297966,
+        "waterSource2Distance": 376.75233455843806,
+        "waterSource3Distance": 377.5756183610504,
+        "outpost1Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost2Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost3Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost1Distance": 3066.869569284427,
+        "outpost2Distance": 3098.2492978393866,
+        "outpost3Distance": 3424.739094492234
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.48582,
+        "longitude": 6.70472,
+        "waterSource1Coordinate": [
+            51.4823994,
+            6.7071078
+        ],
+        "waterSource2Coordinate": [
+            51.4824356,
+            6.7080201
+        ],
+        "waterSource3Coordinate": [
+            51.4885871,
+            6.7113654
+        ],
+        "waterSource1Distance": 415.14302269202653,
+        "waterSource2Distance": 440.83267792695636,
+        "waterSource3Distance": 554.8359519099848,
+        "outpost1Coordinate": [
+            51.5658166,
+            6.6317597
+        ],
+        "outpost2Coordinate": [
+            51.5658166,
+            6.6317597
+        ],
+        "outpost3Coordinate": [
+            51.5658166,
+            6.6317597
+        ],
+        "outpost1Distance": 2804.0030515729463,
+        "outpost2Distance": 2980.562360211847,
+        "outpost3Distance": 3168.8826495817593
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.48991,
+        "longitude": 6.73567,
+        "waterSource1Coordinate": [
+            51.4893897,
+            6.7294018
+        ],
+        "waterSource2Coordinate": [
+            51.4895063,
+            6.7289871
+        ],
+        "waterSource3Coordinate": [
+            51.4893017,
+            6.7287698
+        ],
+        "waterSource1Distance": 439.19719697799337,
+        "waterSource2Distance": 466.336539347002,
+        "waterSource3Distance": 484.01735469198735,
+        "outpost1Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost2Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost3Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost1Distance": 3558.717829422778,
+        "outpost2Distance": 4044.33712958987,
+        "outpost3Distance": 4448.70916560064
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.49087,
+        "longitude": 6.71025,
+        "waterSource1Coordinate": [
+            51.4903343,
+            6.7127695
+        ],
+        "waterSource2Coordinate": [
+            51.4889751,
+            6.711832
+        ],
+        "waterSource3Coordinate": [
+            51.4888591,
+            6.7114924
+        ],
+        "waterSource1Distance": 184.862714694306,
+        "waterSource2Distance": 237.73805230502867,
+        "waterSource3Distance": 239.79267691785006,
+        "outpost1Coordinate": [
+            51.5658166,
+            6.6317597
+        ],
+        "outpost2Coordinate": [
+            51.5658166,
+            6.6317597
+        ],
+        "outpost3Coordinate": [
+            51.5658166,
+            6.6317597
+        ],
+        "outpost1Distance": 2513.8110880636923,
+        "outpost2Distance": 3440.450296500804,
+        "outpost3Distance": 3444.000683787486
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.49514,
+        "longitude": 6.73623,
+        "waterSource1Coordinate": [
+            51.4966118,
+            6.739412
+        ],
+        "waterSource2Coordinate": [
+            51.4968756,
+            6.7403248
+        ],
+        "waterSource3Coordinate": [
+            51.4971135,
+            6.7318089
+        ],
+        "waterSource1Distance": 275.0378180897357,
+        "waterSource2Distance": 343.7345377655049,
+        "waterSource3Distance": 377.46106866479,
+        "outpost1Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost2Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost3Coordinate": [
+            51.5495478,
+            6.6781671
+        ],
+        "outpost1Distance": 3207.8569147526273,
+        "outpost2Distance": 4057.305960647012,
+        "outpost3Distance": 4195.521141828943
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 51.50076,
+        "longitude": 6.72648,
+        "waterSource1Coordinate": [
+            51.4994343,
+            6.7293063
+        ],
+        "waterSource2Coordinate": [
+            51.5037505,
+            6.7272615
+        ],
+        "waterSource3Coordinate": [
+            51.4975998,
+            6.7311082
+        ],
+        "waterSource1Distance": 245.50427674302378,
+        "waterSource2Distance": 337.1128724162427,
+        "waterSource3Distance": 476.35300743984317,
+        "outpost1Coordinate": [
+            51.5878963,
+            6.7282391
+        ],
+        "outpost2Coordinate": [
+            51.5878963,
+            6.7282391
+        ],
+        "outpost3Coordinate": [
+            51.5878963,
+            6.7282391
+        ],
+        "outpost1Distance": 2293.234096748981,
+        "outpost2Distance": 3135.6945784087898,
+        "outpost3Distance": 4366.526198650424
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 38.3739,
+        "longitude": 24.06121,
+        "waterSource1Coordinate": [
+            38.3960505,
+            24.0484977
+        ],
+        "waterSource2Coordinate": [
+            38.3968611,
+            24.0490832
+        ],
+        "waterSource3Coordinate": [
+            38.3972628,
+            24.0492179
+        ],
+        "waterSource1Distance": 2698.0135182709128,
+        "waterSource2Distance": 2760.22170197353,
+        "waterSource3Distance": 2797.0174275117306,
+        "outpost1Coordinate": [
+            38.4409488,
+            24.0326442
+        ],
+        "outpost2Coordinate": [
+            38.4409488,
+            24.0326442
+        ],
+        "outpost3Coordinate": [
+            38.4409488,
+            24.0326442
+        ],
+        "outpost1Distance": 1083.5734863420628,
+        "outpost2Distance": 1964.5950462923824,
+        "outpost3Distance": 3291.1552328187504
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 38.74364,
+        "longitude": 26.93072,
+        "waterSource1Coordinate": [
+            38.7395925,
+            26.9202566
+        ],
+        "waterSource2Coordinate": [
+            38.734302,
+            26.944988
+        ],
+        "waterSource3Coordinate": [
+            38.7790676,
+            26.9256162
+        ],
+        "waterSource1Distance": 1014.6070655288919,
+        "waterSource2Distance": 1616.6161785864897,
+        "waterSource3Distance": 3957.78998423285,
+        "outpost1Coordinate": [
+            38.7339168,
+            26.8352652
+        ],
+        "outpost2Coordinate": [
+            38.7339168,
+            26.8352652
+        ],
+        "outpost3Coordinate": [
+            38.7339168,
+            26.8352652
+        ],
+        "outpost1Distance": 1232.1209308624561,
+        "outpost2Distance": 1674.9644017739859,
+        "outpost3Distance": 3907.5591996536355
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 38.7525,
+        "longitude": 26.93864,
+        "waterSource1Coordinate": [
+            38.734302,
+            26.944988
+        ],
+        "waterSource2Coordinate": [
+            38.7395925,
+            26.9202566
+        ],
+        "waterSource3Coordinate": [
+            38.7790676,
+            26.9256162
+        ],
+        "waterSource1Distance": 2094.1983735560534,
+        "waterSource2Distance": 2146.449738165038,
+        "waterSource3Distance": 3159.0473226084196,
+        "outpost1Coordinate": [
+            38.8292621,
+            27.1438534
+        ],
+        "outpost2Coordinate": [
+            38.8292621,
+            27.1438534
+        ],
+        "outpost3Coordinate": [
+            38.8292621,
+            27.1438534
+        ],
+        "outpost1Distance": 2388.048497524087,
+        "outpost2Distance": 2432.7132946453944,
+        "outpost3Distance": 4213.673766134084
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 38.75345,
+        "longitude": 26.93494,
+        "waterSource1Coordinate": [
+            38.7395925,
+            26.9202566
+        ],
+        "waterSource2Coordinate": [
+            38.734302,
+            26.944988
+        ],
+        "waterSource3Coordinate": [
+            38.7790676,
+            26.9256162
+        ],
+        "waterSource1Distance": 1998.9750965551502,
+        "waterSource2Distance": 2298.1294559984367,
+        "waterSource3Distance": 2957.0341421560324,
+        "outpost1Coordinate": [
+            38.8292621,
+            27.1438534
+        ],
+        "outpost2Coordinate": [
+            38.8292621,
+            27.1438534
+        ],
+        "outpost3Coordinate": [
+            38.8292621,
+            27.1438534
+        ],
+        "outpost1Distance": 2109.8166480017962,
+        "outpost2Distance": 2357.096273853099,
+        "outpost3Distance": 4479.38726655125
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 38.79449,
+        "longitude": 15.2124,
+        "waterSource1Coordinate": [
+            0,
+            0
+        ],
+        "waterSource2Coordinate": [
+            0,
+            0
+        ],
+        "waterSource3Coordinate": [
+            0,
+            0
+        ],
+        "waterSource1Distance": 0,
+        "waterSource2Distance": 0,
+        "waterSource3Distance": 0,
+        "outpost1Coordinate": [
+            38.8292621,
+            27.1438534
+        ],
+        "outpost2Coordinate": [
+            38.8292621,
+            27.1438534
+        ],
+        "outpost3Coordinate": [
+            38.8292621,
+            27.1438534
+        ],
+        "outpost1Distance": 1958.9210281550859,
+        "outpost2Distance": 2048.021759073619,
+        "outpost3Distance": 2416.0797565513412
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 39.08297,
+        "longitude": 9.01969,
+        "waterSource1Coordinate": [
+            39.084266,
+            9.0140237
+        ],
+        "waterSource2Coordinate": [
+            39.0843969,
+            9.0135081
+        ],
+        "waterSource3Coordinate": [
+            39.0690847,
+            9.0327467
+        ],
+        "waterSource1Distance": 510.94858951527647,
+        "waterSource2Distance": 557.8486562441952,
+        "waterSource3Distance": 1911.2245251959757,
+        "outpost1Coordinate": [
+            39.1631088,
+            8.9313949
+        ],
+        "outpost2Coordinate": [
+            39.1631088,
+            8.9313949
+        ],
+        "outpost3Coordinate": [
+            39.1631088,
+            8.9313949
+        ],
+        "outpost1Distance": 2079.418508552465,
+        "outpost2Distance": 2102.490818356633,
+        "outpost3Distance": 2221.7629117555443
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 39.51649,
+        "longitude": 16.01132,
+        "waterSource1Coordinate": [
+            39.5478019,
+            16.0167606
+        ],
+        "waterSource2Coordinate": [
+            39.5488663,
+            16.022393
+        ],
+        "waterSource3Coordinate": [
+            39.5386094,
+            15.9746898
+        ],
+        "waterSource1Distance": 3507.7506306544037,
+        "waterSource2Distance": 3718.5235973613717,
+        "waterSource3Distance": 3993.7509982267634,
+        "outpost1Coordinate": [
+            39.4717878,
+            15.9669096
+        ],
+        "outpost2Coordinate": [
+            39.4717878,
+            15.9669096
+        ],
+        "outpost3Coordinate": [
+            39.4717878,
+            15.9669096
+        ],
+        "outpost1Distance": 4263.440259127484,
+        "outpost2Distance": 5329.6535131965975,
+        "outpost3Distance": 5442.6678417821595
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 40.31523,
+        "longitude": 15.90129,
+        "waterSource1Coordinate": [
+            40.3125574,
+            15.8884415
+        ],
+        "waterSource2Coordinate": [
+            40.3266246,
+            15.8924894
+        ],
+        "waterSource3Coordinate": [
+            40.3245093,
+            15.8856832
+        ],
+        "waterSource1Distance": 1131.7447860412299,
+        "waterSource2Distance": 1469.8237035838133,
+        "waterSource3Distance": 1679.6571554562886,
+        "outpost1Coordinate": [
+            40.3093498,
+            16.2376667
+        ],
+        "outpost2Coordinate": [
+            40.3093498,
+            16.2376667
+        ],
+        "outpost3Coordinate": [
+            40.3093498,
+            16.2376667
+        ],
+        "outpost1Distance": 2763.5310937832846,
+        "outpost2Distance": 3442.9119212706887,
+        "outpost3Distance": 3753.932325756608
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 40.31592,
+        "longitude": 15.89682,
+        "waterSource1Coordinate": [
+            40.3125574,
+            15.8884415
+        ],
+        "waterSource2Coordinate": [
+            40.3266246,
+            15.8924894
+        ],
+        "waterSource3Coordinate": [
+            40.3245093,
+            15.8856832
+        ],
+        "waterSource1Distance": 804.1267369663772,
+        "waterSource2Distance": 1244.3298098975904,
+        "waterSource3Distance": 1343.7386886906731,
+        "outpost1Coordinate": [
+            40.3093498,
+            16.2376667
+        ],
+        "outpost2Coordinate": [
+            40.3093498,
+            16.2376667
+        ],
+        "outpost3Coordinate": [
+            40.3093498,
+            16.2376667
+        ],
+        "outpost1Distance": 2720.1231726547153,
+        "outpost2Distance": 3646.3081635819476,
+        "outpost3Distance": 3739.6613816599247
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 40.50425,
+        "longitude": 17.21959,
+        "waterSource1Coordinate": [
+            40.503267,
+            17.2211942
+        ],
+        "waterSource2Coordinate": [
+            40.5033685,
+            17.2213874
+        ],
+        "waterSource3Coordinate": [
+            40.5032308,
+            17.2216438
+        ],
+        "waterSource1Distance": 174.3699041449473,
+        "waterSource2Distance": 181.0884051684744,
+        "waterSource3Distance": 207.6414088149982,
+        "outpost1Coordinate": [
+            40.4398149,
+            17.1755909
+        ],
+        "outpost2Coordinate": [
+            40.4398149,
+            17.1755909
+        ],
+        "outpost3Coordinate": [
+            40.4398149,
+            17.1755909
+        ],
+        "outpost1Distance": 3440.5538168754433,
+        "outpost2Distance": 3962.6334601136327,
+        "outpost3Distance": 5228.67670901625
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 40.505,
+        "longitude": 17.21508,
+        "waterSource1Coordinate": [
+            40.5049386,
+            17.2131608
+        ],
+        "waterSource2Coordinate": [
+            40.5051459,
+            17.2129688
+        ],
+        "waterSource3Coordinate": [
+            40.5065697,
+            17.2172123
+        ],
+        "waterSource1Distance": 162.81710729542888,
+        "waterSource2Distance": 179.68013316243866,
+        "waterSource3Distance": 251.09313121456438,
+        "outpost1Coordinate": [
+            40.4398149,
+            17.1755909
+        ],
+        "outpost2Coordinate": [
+            40.4398149,
+            17.1755909
+        ],
+        "outpost3Coordinate": [
+            40.4398149,
+            17.1755909
+        ],
+        "outpost1Distance": 3785.1507348408977,
+        "outpost2Distance": 4176.5472239848405,
+        "outpost3Distance": 5619.625164733243
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 40.50902,
+        "longitude": 17.2115,
+        "waterSource1Coordinate": [
+            40.5112364,
+            17.2105438
+        ],
+        "waterSource2Coordinate": [
+            40.5112821,
+            17.2098202
+        ],
+        "waterSource3Coordinate": [
+            40.5121128,
+            17.209742
+        ],
+        "waterSource1Distance": 259.1186026995538,
+        "waterSource2Distance": 288.73495547174224,
+        "waterSource3Distance": 374.36663369415896,
+        "outpost1Coordinate": [
+            40.4398149,
+            17.1755909
+        ],
+        "outpost2Coordinate": [
+            40.4398149,
+            17.1755909
+        ],
+        "outpost3Coordinate": [
+            40.4398149,
+            17.1755909
+        ],
+        "outpost1Distance": 3999.2261060934943,
+        "outpost2Distance": 4135.311508584705,
+        "outpost3Distance": 6009.3367260556115
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 40.5196,
+        "longitude": 17.20977,
+        "waterSource1Coordinate": [
+            40.5186702,
+            17.2082456
+        ],
+        "waterSource2Coordinate": [
+            40.5180218,
+            17.2090459
+        ],
+        "waterSource3Coordinate": [
+            40.5177391,
+            17.2093088
+        ],
+        "waterSource1Distance": 165.37451448601075,
+        "waterSource2Distance": 185.68311705760917,
+        "waterSource3Distance": 210.30659067766877,
+        "outpost1Coordinate": [
+            40.4398149,
+            17.1755909
+        ],
+        "outpost2Coordinate": [
+            40.4398149,
+            17.1755909
+        ],
+        "outpost3Coordinate": [
+            40.4398149,
+            17.1755909
+        ],
+        "outpost1Distance": 3733.988768625172,
+        "outpost2Distance": 4168.286086853758,
+        "outpost3Distance": 5487.152475594751
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 40.62954,
+        "longitude": 18.00023,
+        "waterSource1Coordinate": [
+            40.6321202,
+            18.0019497
+        ],
+        "waterSource2Coordinate": [
+            40.6237081,
+            18.0023599
+        ],
+        "waterSource3Coordinate": [
+            40.6326191,
+            17.9889943
+        ],
+        "waterSource1Distance": 321.3458624414682,
+        "waterSource2Distance": 672.2183064528896,
+        "waterSource3Distance": 1010.194713268491,
+        "outpost1Coordinate": [
+            40.6189278,
+            17.8724188
+        ],
+        "outpost2Coordinate": [
+            40.6189278,
+            17.8724188
+        ],
+        "outpost3Coordinate": [
+            40.6189278,
+            17.8724188
+        ],
+        "outpost1Distance": 2424.542765201398,
+        "outpost2Distance": 3291.042444569384,
+        "outpost3Distance": 3562.651431131438
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 40.67456,
+        "longitude": 16.65634,
+        "waterSource1Coordinate": [
+            40.6655802,
+            16.6404019
+        ],
+        "waterSource2Coordinate": [
+            40.6666071,
+            16.6393286
+        ],
+        "waterSource3Coordinate": [
+            40.6805763,
+            16.6755993
+        ],
+        "waterSource1Distance": 1676.4411974844536,
+        "waterSource2Distance": 1687.848231265432,
+        "waterSource3Distance": 1759.9909508970763,
+        "outpost1Coordinate": [
+            40.7037888,
+            16.7092409
+        ],
+        "outpost2Coordinate": [
+            40.7037888,
+            16.7092409
+        ],
+        "outpost3Coordinate": [
+            40.7037888,
+            16.7092409
+        ],
+        "outpost1Distance": 869.4285479764421,
+        "outpost2Distance": 955.5908841371439,
+        "outpost3Distance": 1526.2362224381886
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 40.75797,
+        "longitude": 29.76189,
+        "waterSource1Coordinate": [
+            40.7550141,
+            29.7721346
+        ],
+        "waterSource2Coordinate": [
+            40.7595405,
+            29.7753316
+        ],
+        "waterSource3Coordinate": [
+            40.758213,
+            29.7755873
+        ],
+        "waterSource1Distance": 925.277717212159,
+        "waterSource2Distance": 1148.3457021343218,
+        "waterSource3Distance": 1156.9427562477397,
+        "outpost1Coordinate": [
+            40.7559751,
+            29.835806
+        ],
+        "outpost2Coordinate": [
+            40.7559751,
+            29.835806
+        ],
+        "outpost3Coordinate": [
+            40.7559751,
+            29.835806
+        ],
+        "outpost1Distance": 5157.718333331709,
+        "outpost2Distance": 6551.395272106416,
+        "outpost3Distance": 6639.690331990686
+    },
+    {
+        "date": "2025-03-04",
+        "temperature": 10.78,
+        "latitude": 40.77078,
+        "longitude": 29.5275,
+        "waterSource1Coordinate": [
+            40.7711344,
+            29.5293485
+        ],
+        "waterSource2Coordinate": [
+            40.7718207,
+            29.519335
+        ],
+        "waterSource3Coordinate": [
+            40.7733061,
+            29.5423958
+        ],
+        "waterSource1Distance": 160.94698544811072,
+        "waterSource2Distance": 698.9534688437872,
+        "waterSource3Distance": 1288.476599412726,
+        "outpost1Coordinate": [
+            40.7887993,
+            29.5896844
+        ],
+        "outpost2Coordinate": [
+            40.7887993,
+            29.5896844
+        ],
+        "outpost3Coordinate": [
+            40.7887993,
+            29.5896844
+        ],
+        "outpost1Distance": 3864.713572158518,
+        "outpost2Distance": 3946.2051565114843,
+        "outpost3Distance": 5207.166669521593
+    }
+]

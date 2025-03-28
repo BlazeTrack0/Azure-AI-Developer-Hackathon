@@ -1,77 +1,70 @@
-![logo](https://github.com/user-attachments/assets/48038e04-a50d-4d45-8e12-fe62ebcca66b)
+# Getting Started with Create React App
 
-# 🔥 Fire Response Intelligence System 🚨  
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Every Second Counts. Every Decision Matters.  
+## Available Scripts
 
-A single spark. That’s all it takes. In minutes, a wildfire can explode into an unstoppable inferno, consuming everything in its path. But what if we could see it coming? What if we could act before it’s too late?  
+In the project directory, you can run:
 
-We don’t just detect fires—we **decode** them. We predict their movement, analyze their impact, and empower first responders with real-time intelligence. **This is more than fire detection. This is fire response reimagined.**  
+### `npm start`
 
----
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## ⚡ Our Mission: Data That Saves Lives  
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Wildfires are unpredictable. **Our response shouldn’t be.**  
-Using cutting-edge technology, we transform raw data into **actionable insights**—helping emergency teams **stay ahead of the flames**.  
+### `npm test`
 
-🔥 **We predict.**  
-🔥 **We prepare.**  
-🔥 **We protect.**  
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-This is about **speed, precision, and saving lives**.  
+### `npm run build`
 
----
-![workflow](https://github.com/user-attachments/assets/02ff0a24-ac08-4943-84c2-a47492bae8b1)
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## 🔍 How It Works  
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-🚀 **Detection in Real-Time**  
-- **NASA FIRMS satellite data** + **Azure Vision models** → Fires are detected **as they happen**.  
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-🌍 **Environmental Analysis**  
-- **Azure OpenAI models** analyze vegetation to predict **fire intensity & spread speed**.  
+### `npm run eject`
 
-🌪 **Live Weather Intelligence**  
-- **Windy API** tracks wind speed, humidity, and temperature—critical factors that can **turn a small fire into a disaster**.  
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-📊 **Fire Forecasting**  
-- Fire spread projections at **1st, 5th, and 10th-hour intervals**.  
-- **Where will the fire move next? How fast? What’s in danger?** Our system answers these questions.  
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-🚒 **Smart Resource Allocation**  
-- Estimates **firefighters, helicopters, and equipment needs** before the fire spirals out of control.  
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-🏡 **Protecting Communities & Wildlife**  
-- **Overpass API** identifies at-risk **villages, farms, and wildlife habitats**.  
-- Locates **the nearest water sources** and the **three closest cities** equipped to send aid.  
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-🗺 **Dynamic, Interactive Mapping**  
-- **Azure Maps** visualizes everything—giving responders a **clear, data-driven battlefield map**.  
+## Learn More
 
----
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## 🌎 Why It Matters  
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-Wildfires are **merciless**. They leave behind more than just ash. They take **homes, ecosystems, and lives**.  
+### Code Splitting
 
-📉 **Every year:**  
-🔥 Millions of hectares burn.  
-🔥 Thousands of animals perish.  
-🔥 Communities are forced to rebuild from nothing.  
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-The devastation is real. The numbers prove it. But with the right **technology and intelligence**, we can **fight back**.  
+### Analyzing the Bundle Size
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-## 🚀 The Future of Fire Response  
+### Making a Progressive Web App
 
-This isn't just another detection system. **It’s a game-changer.**  
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-✅ **Predict fire behavior with pinpoint accuracy**  
-✅ **Empower firefighters with real-time intelligence**  
-✅ **Protect communities before disaster strikes**  
+### Advanced Configuration
 
-Wildfires are inevitable—but **devastation doesn’t have to be**. **With data, we don’t just react—we take control.**  
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-🔥 **We can’t stop every fire from starting, but together, we can change how they end.**  
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
