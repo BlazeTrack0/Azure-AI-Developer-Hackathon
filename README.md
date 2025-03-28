@@ -22,6 +22,7 @@ Using cutting-edge technology, we transform raw data into **actionable insights*
 This is about **speed, precision, and saving lives**.  
 
 ---
+![workflow](https://github.com/user-attachments/assets/02ff0a24-ac08-4943-84c2-a47492bae8b1)
 
 ## 🔍 How It Works  
 
