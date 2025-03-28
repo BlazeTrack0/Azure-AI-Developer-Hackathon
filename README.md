@@ -1,6 +1,9 @@
 ![logo](https://github.com/user-attachments/assets/1ca01731-9a36-40d5-bd0e-64e046c80593)
 # 🔥 Fire Response Intelligence System 🚨  
 
+## 🎥 Watch Our Hackathon Presentation!
+[![Watch the video](https://img.youtube.com/vi/Okgx1JmUVBs/maxresdefault.jpg)](https://www.youtube.com/watch?v=Okgx1JmUVBs)
+
 ## Every Second Counts. Every Decision Matters.  
 
 A single spark. That’s all it takes. In minutes, a wildfire can explode into an unstoppable inferno, consuming everything in its path. But what if we could see it coming? What if we could act before it’s too late?  
